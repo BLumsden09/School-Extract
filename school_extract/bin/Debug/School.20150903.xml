@@ -1,0 +1,1879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<k12School xmlns="http://specification.sifassociation.org/Implementation/na/3.2/html/CEDS/K12/K12_k12School.html">
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Alachua</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120003007266</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>290 E Jonathan St</line1>
+          </street>
+          <city>Macclenny</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>320632704</postalCode>
+          <county>Baker</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120006007240</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Bay</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120009007370</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Bradford</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120012007302</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>2700 Judge Fran Jamieson Way</line1>
+          </street>
+          <city>Viera</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>329406601</postalCode>
+          <county>Brevard</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120015007426</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Broward</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120018007408</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>20859 Central Ave E Rm G20</line1>
+          </street>
+          <city>Blountstown</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>324246202</postalCode>
+          <county>Calhoun</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120021007403</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Charlotte</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120024007419</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>2575 S Panther Pride Dr</line1>
+          </street>
+          <city>Lecanto</city>
+          <stateProvince />
+          <postalCode>34461</postalCode>
+          <county>Citrus</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120027007405</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Clay</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120030006888</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Collier</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120033006948</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Columbia</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120036007247</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>489 East Dr</line1>
+          </street>
+          <city>Miami Springs</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>331666107</postalCode>
+          <county>Miami-Dade</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120039007333</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>310 W Whidden St</line1>
+          </street>
+          <city>Arcadia</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>342664193</postalCode>
+          <county>Desoto</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120042007285</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>16077 Ne Hwy 19</line1>
+          </street>
+          <city>Cross City</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>32628</postalCode>
+          <county>Dixie</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120045007255</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>1701 Prudential Dr</line1>
+          </street>
+          <city>Jacksonville</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>322078152</postalCode>
+          <county>Duval</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120048007344</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Escambia</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120051006923</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Flagler</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120054006933</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Franklin</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120057007376</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>35 Martin Luther King Jr Blvd</line1>
+          </street>
+          <city>Quincy</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>323514411</postalCode>
+          <county>Gadsden</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120060007401</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>310 Nw 11Th Ave</line1>
+          </street>
+          <city>Trenton</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>326933804</postalCode>
+          <county>Gilchrist</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120063006859</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Glades</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120066007340</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Gulf</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120069006956</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>5683 Us Highway 129 S Ste 1</line1>
+          </street>
+          <city>Jasper</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>320523743</postalCode>
+          <county>Hamilton</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120072007415</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>200 S Florida Ave</line1>
+          </street>
+          <city>Wauchula</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>338730000</postalCode>
+          <county>Hardee</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120075007257</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>475 E Osceola Ave</line1>
+          </street>
+          <city>Clewiston</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>334403140</postalCode>
+          <county>Hendry</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120078007392</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>919 N  Broad St</line1>
+          </street>
+          <city>Brooksville</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>346012397</postalCode>
+          <county>Hernando</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120081007355</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Highlands</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120084007293</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Hillsborough</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120087007332</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Holmes</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120090007424</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Indian River</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120093006827</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>2903 Jefferson St</line1>
+          </street>
+          <city>Marianna</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>324467401</postalCode>
+          <county>Jackson</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120096007356</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Jefferson</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120099007349</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>363 Ne Crawford St</line1>
+          </street>
+          <city>Mayo</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>320665612</postalCode>
+          <county>Lafayette</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120102006890</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>525 Georgia Ave</line1>
+          </street>
+          <city>Howey-In-The-Hills</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>347373122</postalCode>
+          <county>Lake</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120105007432</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Lee</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120108007254</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>000000000</postalCode>
+          <county>Leon</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120111006972</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>480 Marshburn Dr</line1>
+          </street>
+          <city>Bronson</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>326216221</postalCode>
+          <county>Levy</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120114007277</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Liberty</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120117007307</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>210 Ne Duval Ave</line1>
+          </street>
+          <city>Madison</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>323402541</postalCode>
+          <county>Madison</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120120007343</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Manatee</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120123007435</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Marion</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120126006840</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Martin</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120129007260</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Monroe</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120132007384</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Nassau</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120135007414</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Okaloosa</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120138007365</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>700 Sw 2Nd Ave</line1>
+          </street>
+          <city>Okeechobee</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>349745117</postalCode>
+          <county>Okeechobee</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120141007274</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>445 W Amelia St</line1>
+          </street>
+          <city>Orlando</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>328011129</postalCode>
+          <county>Orange</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120144007329</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>1200 Vermont Ave</line1>
+          </street>
+          <city>St Cloud</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>34769</postalCode>
+          <county>Osceola</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120147007297</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Palm Beach</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120150007342</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Pasco</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120153007301</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Pinellas</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120156007436</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Polk</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120159006862</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Putnam</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120162007236</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>2980 Collins Avenue Bldg 1</line1>
+          </street>
+          <city>St Augustine</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>320841921</postalCode>
+          <county>St. Johns</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120174007234</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>4204 Okeechobee Rd</line1>
+          </street>
+          <city>Fort Pierce</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>349475414</postalCode>
+          <county>St. Lucie</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120177007233</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Santa Rosa</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120165007367</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Sarasota</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120168007270</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Seminole</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120171007237</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Sumter</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120180007364</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>702 2Nd St. Nw</line1>
+          </street>
+          <city>Live Oak</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>320641608</postalCode>
+          <county>Suwannee</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120183007341</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Taylor</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120186006929</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Union</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120189007411</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Volusia</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120192007359</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1></line1>
+          </street>
+          <city></city>
+          <stateProvince />
+          <postalCode>          </postalCode>
+          <county>Wakulla</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120195006836</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>145 S Park St</line1>
+          </street>
+          <city>Defuniak Springs</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>324352909</postalCode>
+          <county>Walton</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120198007404</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9998</schoolID>
+      <name>Home Education Program Students</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>652 3Rd St</line1>
+          </street>
+          <city>Chipley</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>32428</postalCode>
+          <county>Washington</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120201007380</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+</k12School>

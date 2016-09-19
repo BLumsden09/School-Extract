@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<k12School xmlns="http://specification.sifassociation.org/Implementation/na/3.2/html/CEDS/K12/K12_k12School.html">
+  <school>
+    <identification>
+      <schoolID>7001</schoolID>
+      <name>Dixie Virtual Instruction Program</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>16077 Ne Hwy 19</line1>
+          </street>
+          <city>Cross City</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>32628</postalCode>
+          <county>Dixie</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120045007674</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>1</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>7004</schoolID>
+      <name>Levy Virtual Franchise</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>480 Mashburn Dr</line1>
+          </street>
+          <city>Bronson</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>326216221</postalCode>
+          <county>Levy</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120114007817</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>1</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>7023</schoolID>
+      <name>Levy Virtual Instruction Program</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>KG/01/02/03/04/05</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>480 Mashburn Dr</line1>
+          </street>
+          <city>Bronson</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>326216221</postalCode>
+          <county>Levy</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120114008221</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>1</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>7004</schoolID>
+      <name>Palm Beach Virtual Franchise</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>KG/01/02/03/04/05/06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>7071 Garden Rd</line1>
+          </street>
+          <city>Riviera Beach</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>334044906</postalCode>
+          <county>Palm Beach</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120150007287</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>1</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>7006</schoolID>
+      <name>Palm Beach Virtual (Course Offerings)</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>7071 Garden Rd</line1>
+          </street>
+          <city>Riviera Beach</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>334044906</postalCode>
+          <county>Palm Beach</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120150008015</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>1</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>7023</schoolID>
+      <name>Palm Beach Virtual (Course Offerings)</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>06/07/08/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>7071 Garden Rd</line1>
+          </street>
+          <city>Riviera Beach</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>334044906</postalCode>
+          <county>Palm Beach</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120150008306</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>1</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>1323</schoolID>
+      <name>"Pinnacle Academy, Inc.                                                                              "</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>6215 Lorraine Rd</line1>
+          </street>
+          <city>Bradenton</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>342026708</postalCode>
+          <county>Sarasota</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID>120168004206</NCESID>
+        <privateschoolNCESID></privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>1</delete>
+  </school>
+</k12School>

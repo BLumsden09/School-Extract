@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<k12School xmlns="http://specification.sifassociation.org/Implementation/na/3.2/html/CEDS/K12/K12_k12School.html">
+  <school>
+    <identification>
+      <schoolID>4456</schoolID>
+      <name>Family Life Academy</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>PK/KG/01/02/03/04/05/06/07/09/09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>17259 Sw Archer Road,</line1>
+          </street>
+          <city>Archer</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>32618</postalCode>
+          <county>Alachua</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID></NCESID>
+        <privateschoolNCESID>1210001A0501062-01</privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+  <school>
+    <identification>
+      <schoolID>9901</schoolID>
+      <name>Family Life Academy - South Campus</name>
+      <organizationType>K12School</organizationType>
+    </identification>
+    <directory>
+      <gradesOfferedList>
+        <gradesOffered>09/10/11/12</gradesOffered>
+      </gradesOfferedList>
+      <addressList>
+        <address>
+          <street>
+            <line1>11 South Street,</line1>
+          </street>
+          <city>Archer</city>
+          <stateProvince>FL</stateProvince>
+          <postalCode>32618</postalCode>
+          <county>Alachua</county>
+        </address>
+      </addressList>
+      <reference>
+        <NCESID></NCESID>
+        <privateschoolNCESID>1210001A0501062-02</privateschoolNCESID>
+      </reference>
+    </directory>
+    <delete>0</delete>
+  </school>
+</k12School>
